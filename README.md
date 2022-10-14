@@ -20,7 +20,7 @@ This image is built on Docker Hub automatically any time the upstream OS contain
 
 > Note: Switch between `master` and `testing` depending on whether you want the extra testing tools present in the resulting image.
 
-## How to Use
+### How to Use
 
   1. [Install Docker](https://docs.docker.com/engine/installation/).
   2. Pull this image from Docker Hub: `docker pull habbis0/docker-ubi9-ansible:latest` (or use the image you built earlier, e.g. `ubi9-ansible:latest`).
